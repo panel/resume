@@ -1,0 +1,111 @@
+{
+  "basics": {
+    "name": "Paul Nelson",
+    "label": "Senior Web Engineer",
+    "email": "panel@umich.edu",
+    "summary": "I am passionate about about using my skills to contribute to and inspire teams to create effective solutions to real business problems.",
+    "location": {
+      "address": "1816 W Wellington Ave 1F",
+      "postalCode": "IL 60657",
+      "city": "Chicago",
+      "countryCode": "IL",
+      "region": "Illinois"
+    },
+    "website": "http://paulnelson.me",
+    "profiles": [{
+      "network": "github",
+      "username": "panel",
+      "url": "https://github.com/panel"
+    }, {
+      "network": "linkedin",
+      "username": "panel",
+      "url": "https://www.linkedin.com/in/panel"
+    }]
+  },
+  "work": [
+    {
+      "company": "GoHealth",
+      "position": "Senior Web Engineer",
+      "website": "https://gohealthinsurance.com",
+      "startDate": "2013-05",
+      "summary": "I lead teams that deliver products that help consumers to enroll in health insurance either directly or through a licensed agent.",
+      "highlights": [
+        "Turned around low perfoming SCRUM team through coaching, technical leadership and process improvement.",
+        "Co-Authored Javascript and AngularJS coding standards complete with pre-commit code analysis and auto-correction.",
+        "Brought application used by over 50,000 licensed agents from business charter to production including developing toolset, service architecture, deployment process and monitoring procedurs.",
+        "Helped deliver large, single page Angular application that allows consumers to find and compare health insurance plans."
+      ]
+    },
+    {
+      "company": "Perficient Inc.",
+      "position": "Senior Technical Consultant",
+      "website": "http://perficient.com",
+      "startDate": "2011-07",
+      "endDate": "2013-05",
+      "summary": "Worked with large enterprise companies developing SOA based middleware enabling communication with internal business units and external trading partners.",
+      "highlights": [
+        "Led task force to improve performance on large scale, batch processing jobs.",
+        "Designed a DataPower powered front-end suite of SOAP WebServices leveraging WS-Addressing, WS-Security.",
+        "Wrote clear, detailed documentation for development and long-term support of enterprise software systems.",
+        "Lead a multi-shore development team in a high profile healthcare project"
+      ]
+    },
+    {
+      "company": "Chicago Agent Magazine",
+      "position": "Digital Products Manager",
+      "website": "http://perficient.com",
+      "startDate": "2010-10",
+      "endDate": "2011-07",
+      "summary": "Small company covering the real estate industry in Chicago.",
+      "highlights": [
+        "Worked with the Art Director to create seamless brand integration across online and offline channels.",
+        "Developed tools to standardize and simplify common tasks",
+        "Created custom, online formats for special issues of the print magazine.",
+        "Managed a network of over 25 domains and three complex, Wordpress based websites."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Michigan",
+      "startDate": "2004-09",
+      "endDate": "2008-05",
+      "area": "Political Science",
+      "studyType": "Bachelor of Arts"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Expert",
+      "keywords": [
+        "HTML",
+        "CSS/SASS",
+        "Javascript",
+        "AngularJS",
+        "Jasmine"
+      ]
+    },
+    {
+      "name": "Technical Leadership",
+      "level": "Advanced",
+      "keywords": [
+        "SCRUM",
+        "Agile Ceremonies",
+        "Coaching and Training",
+        "Toolchain Development"
+      ]
+    },
+    {
+      "name": "Architecture",
+      "level": "Intermediate",
+      "keywords": [
+        "Spring Boot",
+        "REST API Design",
+        "Build Pipeline Management",
+        "Ruby",
+        "NodeJS/Express"
+      ]
+    }
+  ]
+}
